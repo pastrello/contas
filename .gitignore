@@ -1,0 +1,18 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Dados locais / backups
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.fbk
+*.zip
+Backups/
